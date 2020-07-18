@@ -1,5 +1,7 @@
 # unidbg_douyin libcms.so.10.5
 
+仅供学习用，已经不适用于最新版了
+
 本DEMO项目基于 unicorn 和 参考ExAndroidNativeEmu 个人学习使用，不在更新,记于4月8日
 
 关于 [unicorn](https://github.com/zhkl0228/unicorn) 
